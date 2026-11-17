@@ -1,0 +1,6 @@
+[client]
+# 배포한 앱에서 불필요한 메뉴를 줄인다 (Deploy 버튼 등)
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
